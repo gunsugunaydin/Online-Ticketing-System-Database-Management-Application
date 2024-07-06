@@ -10,13 +10,13 @@ This project is a database management application developed for an online ticket
 
 2. *Installation Steps:*
 
-   **2.1. Clone the project & Create Database and Tables::**
+   *2.1. Clone the project & Create Database and Tables:*
 
    ```bash
    git clone https://github.com/gunsugunaydin/Online-Ticketing-System-Database.git
    cd Online-Ticketing-System-Database-App
 
-    Execute the SQL script `createdb.sql` to create the necessary database schema and tables. This script initializes the structure required for the Online Ticketing System.
+   Execute the SQL script `createdb.sql` to create the necessary database schema and tables. This script initializes the structure required for the Online Ticketing System.
 
    ```bash
    psql -U group34 -d "Online Ticketing System Database" -a -f createdb.sql
