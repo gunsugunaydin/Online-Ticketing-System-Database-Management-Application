@@ -22,7 +22,7 @@ This project is a database management application developed for an online ticket
     psql -U group34 -d "Online Ticketing System Database" -a -f createdb.sql
 
 3. *Usage:*
-    After build and run the application, you can see the Online Ticketing System Database Menu in your java IDE.
+    After build and run the application, you can see the 'Online Ticketing System Database Menu' in your java IDE.
 
     #### Online Ticketing System Database Menu
     
