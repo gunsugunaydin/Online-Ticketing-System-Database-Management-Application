@@ -46,21 +46,21 @@ This project is a database management application developed for an online ticket
 
 ## The Requirements for the Online Ticketing System Database
 
--The ticketing system based on the events. Each event has a unique ID, a unique name, genre, beginning date and ending date.  
+- The ticketing system based on the events. Each event has a unique ID, a unique name, genre, beginning date and ending date.  
 
--An event has several (including 0) event review and each event review must associated with an event. When the client enters the event review, he/she can see the given score, can see evaluation date of the event, and he/she can evaluate the event himself/herself. In order to evaluate the event, client must enter client’s id.
+- An event has several (including 0) event review and each event review must associated with an event. When the client enters the event review, he/she can see the given score, can see evaluation date of the event, and he/she can evaluate the event himself/herself. In order to evaluate the event, client must enter client’s id.
 
--An event organized by at least one cast and each cast must organize at most one event. Each cast has unique email, name surname, profession and salary.
+- An event organized by at least one cast and each cast must organize at most one event. Each cast has unique email, name surname, profession and salary.
 
--Events consist event days. An event must take place on some day(s) in a week. Since event days dependent on events, it should match at least one event. When the client attends the event, he/she should be able to see which days and time intervals available of that event.
+- Events consist event days. An event must take place on some day(s) in a week. Since event days dependent on events, it should match at least one event. When the client attends the event, he/she should be able to see which days and time intervals available of that event.
 
--Each event takes place in just one venue and each venue can host more than one events. Each venue has unique venue id, name section, phone number, seating arrangement, information about the event, and address. In addition, one venue can has at least one seat but seat can only belong to one venue.
+- Each event takes place in just one venue and each venue can host more than one events. Each venue has unique venue id, name section, phone number, seating arrangement, information about the event, and address. In addition, one venue can has at least one seat but seat can only belong to one venue.
 
--Clients can attend several events and system keeps track of the clients who joined the event. Each client has a unique ID, name, surname, email and clients may have several phone numbers. 
+- Clients can attend several events and system keeps track of the clients who joined the event. Each client has a unique ID, name, surname, email and clients may have several phone numbers. 
 
--The client can buy seat(s) with paying seat price and each seat known by its type (VIP, standard etc.), name (A1,B1 etc.) and its unique id. When client bought the seat(s), system keep track of bought seat(s) and records the purchased ticket with its id and price. In addition, client can cancel his/her seat or seats and seat(s) is cancelled by purchaser only. The system also keep track of cancelled seat(s). 
+- The client can buy seat(s) with paying seat price and each seat known by its type (VIP, standard etc.), name (A1,B1 etc.) and its unique id. When client bought the seat(s), system keep track of bought seat(s) and records the purchased ticket with its id and price. In addition, client can cancel his/her seat or seats and seat(s) is cancelled by purchaser only. The system also keep track of cancelled seat(s). 
 
--Every seat include seat review or reviews. This mean that client can see seats’ angle, image, and upload date (comment date) of review if he/she want. Moreover, each seat review has a unique review id.
+- Every seat include seat review or reviews. This mean that client can see seats’ angle, image, and upload date (comment date) of review if he/she want. Moreover, each seat review has a unique review id.
 
 
 ## Database Structure: ER Conceptual Schema Diagram for Online Ticketing System Database
