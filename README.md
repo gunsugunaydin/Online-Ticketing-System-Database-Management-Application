@@ -39,12 +39,13 @@ This project is a database management application developed for an online ticket
 
 ## Database Structure: ER Conceptual Schema Diagram for Online Ticketing System Database
 
+![Untitled Diagram drawio adlı dosyanın kopyası](https://github.com/gunsugunaydin/Online-Ticketing-System-Database-Management-Application/assets/110038957/68c28536-3e97-4b42-8468-990d6e7d0a9e)
 
-![Untitled Diagram drawio adlı dosyanın kopyası drawio](https://github.com/gunsugunaydin/Online-Ticketing-System-Database/assets/110038957/60754e91-5966-43d6-94bf-901a87472cd6)
 
 ## Database Structure: Schema Diagram for Online Ticketing System Database
 
-![group project-Page-2](https://github.com/gunsugunaydin/Online-Ticketing-System-Database/assets/110038957/c5fe8877-f714-4a92-972f-96836a4ca3ec)
+
+![group project-Page-2](https://github.com/gunsugunaydin/Online-Ticketing-System-Database-Management-Application/assets/110038957/5042bd6d-822d-4e2d-a70b-2b1b313366c2)
 
 
 ## SQL Queries
