@@ -10,7 +10,7 @@ This project is a database management application developed for an online ticket
 
 2. *Installation Steps:*
 
-   *2.1. Clone the project & Create Database and Tables:*
+   *2.1. Clone the Project & Create Database and Tables:*
 
    ```bash
    git clone https://github.com/gunsugunaydin/Online-Ticketing-System-Database.git
