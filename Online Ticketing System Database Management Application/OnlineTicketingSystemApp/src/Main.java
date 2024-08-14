@@ -14,7 +14,7 @@ public class Main {
 	private static Statement statement = null;
 	private static ResultSet resultset = null;
 	
-	final private static String host = "jdbc:postgresql://10.98.98.61:5432/admin";
+	final private static String host = "jdbc:postgresql://10.98.98.61:5432/dbticketingsystem";
 	final private static String user = "admin";
 	final private static String password = "d$b?XLuM*2*BmmK3";
 		
