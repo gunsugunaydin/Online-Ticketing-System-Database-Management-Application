@@ -21,8 +21,8 @@ This project is a database management application developed for an online ticket
    Execute the SQL script `createdb.sql` to create the necessary database schema and tables. This script initializes the structure required for the Online Ticketing System.
 
    ```bash
-    createdb -U admin "Online Ticketing System Database"
-    psql -U admin -d "Online Ticketing System Database" -a -f createdb.sql
+    createdb -U admin "online_ticketing_system_database"
+    psql -U admin -d "online_ticketing_system_database" -a -f createdb.sql
     ```
    
 4. *Usage:*
