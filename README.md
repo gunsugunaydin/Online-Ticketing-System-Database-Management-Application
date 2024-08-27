@@ -95,9 +95,9 @@ The Java application connects to the PostgreSQL database using JDBC and allows t
 
 ![Ticket Tool](https://media.tenor.com/XVWIZQh1Ge8AAAAM/make-a-ticket-ticket-tool.gif)
 
-Thank you for exploring the Online Ticketing System Management Tool! 🎟️ If you have any questions, feedback, or just want to chat about the project, feel free to reach out. Your support and suggestions are always appreciated!
+Thank you for exploring the Online Ticketing System Management Tool! If you have any questions, feedback, or just want to chat about the project, feel free to reach out. Your support and suggestions are always appreciated!
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- **Email**: [gunsugunay98@gmail.com](mailto:gunsugunay98@gmail.com)
+- **LinkedIn**: [linkedin.com/in/gunsugunaydin](https://www.linkedin.com/in/gunsugunaydin/)
 
 
