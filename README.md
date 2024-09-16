@@ -1,4 +1,4 @@
-# Online Ticketing System Management Tool with Java and PostgreSQL <img src="https://media.tenor.com/Haml3kLurnQAAAAi/ticket-admission-tickets.gif" alt="Waving Hand" width="50" height="50"> 
+# Online Ticketing System Management Tool with Java and PostgreSQL <img src="https://media.tenor.com/Haml3kLurnQAAAAi/ticket-admission-tickets.gif" alt="Showing Ticket" width="50" height="50"> 
 
 This project is a database management application developed for an online ticketing system. The project includes a Java application that performs database operations using Java and PostgreSQL.
 
