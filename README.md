@@ -74,9 +74,7 @@ This project is a database management application developed for an online ticket
 
 ## Database Structure: Schema Diagram for Online Ticketing System Database
 
-
-![group project-Page-2 (1)](https://github.com/gunsugunaydin/Online-Ticketing-System-Database-Management-Application/assets/110038957/4f9e7110-b574-45ee-99f1-606eef3f5eac)
-
+![group project-Page-2 drawio (1)](https://github.com/user-attachments/assets/0c2f019e-2596-4fc6-ad62-c109210d30e4)
 
 
 ## SQL Queries
